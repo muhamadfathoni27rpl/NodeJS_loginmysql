@@ -44,8 +44,8 @@ app.post('/auth',(req,res)=>{
                 let transporter = mail.createTransport({
                     service: 'gmail',
                     auth: {
-                        user: 'muhamad_fathoni_27rpl@student.smktelkom-mlg.sch.id',
-                        pass: 'mojokerto@&$@))#arekmalang45ToNi'
+                        user: '###Email mu',
+                        pass: '###Password Email mu'
                     }
                 });
                 let mailOptions = {
