@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "alert-node": "^2.0.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "bootbox": "^5.3.2",
     "custom-alert": "^2.2.0",
